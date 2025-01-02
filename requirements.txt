@@ -1,2 +1,6 @@
 phidata
 groq
+yfinance
+newspaper4k
+duckduckgo_search
+lxml_html_clean
