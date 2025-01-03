@@ -24,4 +24,4 @@ agent = Agent(
     markdown=True,
 )
 
-agent.print_response("Provide a recommendation for BTC.", stream=True)
+agent.print_response("Analyze Bitcoin symbol=BTC for potential investment opportunities backed by data.", stream=True)
